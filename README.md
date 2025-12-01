@@ -58,4 +58,4 @@ Figma Linux — популярный инструмент для дизайне�
 2. Запустите скрипт:
 
 ```bash
-./figma-optimize.sh
+./figma-linux-arch.sh
